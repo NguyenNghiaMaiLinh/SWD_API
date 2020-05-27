@@ -1,0 +1,12 @@
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\bin\Debug\netstandard2.0\DemoApp.Repositories.deps.json
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\bin\Debug\netstandard2.0\DemoApp.Repositories.dll
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\bin\Debug\netstandard2.0\DemoApp.Repositories.pdb
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\bin\Debug\netstandard2.0\DemoApp.Core.dll
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\bin\Debug\netstandard2.0\DemoApp.Core.pdb
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\obj\Debug\netstandard2.0\DemoApp.Repositories.csprojAssemblyReference.cache
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\obj\Debug\netstandard2.0\DemoApp.Repositories.csproj.CoreCompileInputs.cache
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\obj\Debug\netstandard2.0\DemoApp.Repositories.AssemblyInfoInputs.cache
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\obj\Debug\netstandard2.0\DemoApp.Repositories.AssemblyInfo.cs
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\obj\Debug\netstandard2.0\DemoApp.Repositories.csproj.CopyComplete
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\obj\Debug\netstandard2.0\DemoApp.Repositories.dll
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Repositories\obj\Debug\netstandard2.0\DemoApp.Repositories.pdb

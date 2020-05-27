@@ -1,0 +1,12 @@
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\bin\Debug\netstandard2.0\DemoApp.Service.deps.json
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\bin\Debug\netstandard2.0\DemoApp.Service.dll
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\bin\Debug\netstandard2.0\DemoApp.Service.pdb
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\bin\Debug\netstandard2.0\DemoApp.Core.dll
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\bin\Debug\netstandard2.0\DemoApp.Core.pdb
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\obj\Debug\netstandard2.0\DemoApp.Service.csprojAssemblyReference.cache
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\obj\Debug\netstandard2.0\DemoApp.Service.csproj.CoreCompileInputs.cache
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\obj\Debug\netstandard2.0\DemoApp.Service.AssemblyInfoInputs.cache
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\obj\Debug\netstandard2.0\DemoApp.Service.AssemblyInfo.cs
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\obj\Debug\netstandard2.0\DemoApp.Service.csproj.CopyComplete
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\obj\Debug\netstandard2.0\DemoApp.Service.dll
+G:\DevOps\C#_ReactJS\DemoApp_API\DemoApp.Service\obj\Debug\netstandard2.0\DemoApp.Service.pdb
